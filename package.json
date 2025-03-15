@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "MQTT.js",
   "scripts": {
-    "start": "node serverMQTT.js",
+    "start": "node MQTT.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
